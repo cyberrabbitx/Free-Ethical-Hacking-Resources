@@ -1,7 +1,7 @@
 # Step By Step Ethical Hacking Resources
 <br> Computer Basics</br>
-Networking
-Linux
-Connand Line
-Power Shell
-Programming Languages
+<br>Networking</br>
+<br>Linux</br>
+<br>Connand Line</br>
+<br>Power Shell</br>
+<br>Programming Languages</br>
