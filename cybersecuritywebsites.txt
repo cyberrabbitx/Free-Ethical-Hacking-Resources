@@ -1,4 +1,4 @@
-<h1> Top 10 Blogs & Websites for Cyber Security & Ethical Hacking </h1>
+Top 10 Blogs & Websites for Cyber Security & Ethical Hacking
 <br>The Hacker News https://thehackernews.com/ </br>
 <br>We Live Security https://www.welivesecurity.com/</br>
 <br>HackerOne https://www.hackerone.com/</br>
